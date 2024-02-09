@@ -65,7 +65,7 @@ const projectsData = [
   },
   {
     id: 7,
-    title: "VTEX IO Add to Cart Info",
+    title: "VTEX Add to Cart Info",
     description:
       "This component will display additional information when the user add a new item to the shopping list, made with React and Typescript. To view this repository you need to have a workspace in VTEX IO",
     image: "/images/projects/7.png",
@@ -75,7 +75,7 @@ const projectsData = [
   },
   {
     id: 8,
-    title: "VTEX IO Bullets Diagramation",
+    title: "VTEX Bullets Diagramation",
     description:
       "Component that allows the creation of bullets that target different categories, made with React and Typescript. To view this repository you need to have a workspace in VTEX IO",
     image: "/images/projects/8.png",
@@ -85,7 +85,7 @@ const projectsData = [
   },
   {
     id: 9,
-    title: "VTEX IO WhatsApp Button",
+    title: "VTEX WhatsApp Button",
     description:
       "This component allows you to display a button that takes the user to a help chat in WhatsApp. To view this repository you need to have a workspace in VTEX IO",
     image: "/images/projects/9.png",
